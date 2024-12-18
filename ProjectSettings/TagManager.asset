@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeathCan
+  - enemyHitBox
+  - Enemy
+  - EnemyTriggerArea
+  - EnemyDetectionZone
+  - EnemyPlayerCheck
+  - DeathBlow
+  - Tutorial
+  - SculptorIdol
+  - AutoSaveTrigger
+  - Letter
+  - Door
+  - FallingPlatforms
+  - AudioManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - AutoSaveTrigger
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Background
+  - Ledge
+  - Enemy
+  - EnemyTriggerArea
+  - EnemyDetectionZone
+  - EnemyHitBox
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 3814096017
+    locked: 0
+  - name: Middle
+    uniqueID: 3283085867
+    locked: 0
+  - name: Entity
+    uniqueID: 4257952465
+    locked: 0
+  - name: Fore
+    uniqueID: 491875533
+    locked: 0
+  - name: Camera
+    uniqueID: 3659529257
+    locked: 0
